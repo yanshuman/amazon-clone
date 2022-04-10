@@ -20,7 +20,14 @@
     flex: 1;
     align-items: center;
     border-radius: 24px;
+    padding-left: 40px;
 
+}
+
+select{
+    height: 34px;
+    width: 10%;
+    color: black;
 }
 
 .header_searchInput {
@@ -34,4 +41,12 @@
     padding: 5px;
     height: 22px !important;
     background-color: #cd9042;
+}
+
+.language{
+    display: flex;
+}
+
+.lang{
+    height: 25px;
 }
