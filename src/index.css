@@ -19,12 +19,13 @@ nav, ul, h3 {
 
 
 .footer {
-  background-color: #40444d;
+  padding-top: 30px;
+  background-color: #37475a;
   color : white;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 .footer > nav {
   padding : 0px 30px;  
@@ -39,7 +40,7 @@ nav, ul, h3 {
 }
 
 .country {
-  background-color: #626364;
+  background-color: #232f3e;
   color : white;
   text-align: center;
 }
@@ -59,8 +60,8 @@ nav, ul, h3 {
   position: relative;
   padding : 10px 0 20px 0;
   text-align: center;
-  font-size: 1.5rem;
-  background-color: #2c2d30;
+  /* font-size: 1.5rem; */
+  background-color: #131a22;
   color : rgb(228, 222, 222);
 
 }

@@ -73,7 +73,7 @@ export default function Footer() {
             </nav>
 
             <nav className="team-name">
-                <h3>Made with <span>&#x2764;</span> by Team Never Lucky</h3>
+                <p>Made with <span>&#x2764;</span> by Team Never Lucky</p>
             </nav>
 
 
